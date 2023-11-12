@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment=KDE-Story-Blue Dark Global Theme by l4k1
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=KDE-Story-Blue-Dark-Global
+
+Type=Service
+
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-ParentApp=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=KDE-Story-Blue-Dark-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes
+X-KDE-fallbackPackage=org.kde.breezedark.desktop
+X-Plasma-MainScript=defaults
+X-Plasma-APIVersion=2
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2105222,kns://colorschemes.knsrc/api.kde-look.org/2105220,kns://plasma-themes.knsrc/api.kde-look.org/2105230,kns://icons.knsrc/api.kde-look.org/2078427,kns://icons.knsrc/api.kde-look.org/2078422,kns://icons.knsrc/api.kde-look.org/2102240,kns://icons.knsrc/api.kde-look.org/2102238,kns://aurorae.knsrc/api.kde-look.org/2105225,kns://aurorae.knsrc/api.kde-look.org/2105226,kns://wallpaper.knsrc/api.kde-look.org/2105207,kns://wallpaper.knsrc/api.kde-look.org/2105201,kns://wallpaper.knsrc/api.kde-look.org/1633286,kns://sddmtheme.knsrc/api.kde-look.org/2105218
