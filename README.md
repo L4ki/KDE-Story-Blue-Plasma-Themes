@@ -32,3 +32,22 @@ Screenshot:
 ![Screenshot_20231109_150603](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/c606a4ab-0560-4f26-8e70-c35009eef17c)
 
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
+
+
+Changelog: 19.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: widget.svg
+
+GTK-Theme
+---------
+
+Update:  treeview-separator-ltr.png
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
