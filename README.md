@@ -51,3 +51,21 @@ Aurorae Themes
 ---------------
 
 Update: decoration.svg
+
+Changelog: 26.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+GTK-Theme
+---------
+
+Update: progressbar-vert-trough.png
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
