@@ -69,3 +69,21 @@ Aurorae Themes
 ---------------
 
 Update: Auroraerc
+
+Changelog: 03.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: yakuake.svg
+
+GTK-Theme
+---------
+
+Update: styles
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
