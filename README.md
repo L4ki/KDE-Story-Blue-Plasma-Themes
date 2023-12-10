@@ -87,3 +87,22 @@ Aurorae Themes
 ---------------
 
 Update: shade.svg
+
+Changelog: 10.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: telegram.svg
+
+GTK-Theme
+---------
+
+Update: progressbar-horz-trough.png
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
+
