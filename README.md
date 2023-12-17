@@ -106,3 +106,21 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 17.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: strawberry.svg
+
+GTK-Theme
+---------
+
+Update: checkbox-checked-active.png
+
+Aurorae Themes
+---------------
+
+Update: minimize.svg
+
