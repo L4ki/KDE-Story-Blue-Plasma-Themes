@@ -124,3 +124,21 @@ Aurorae Themes
 
 Update: minimize.svg
 
+Changelog: 24.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: krfb.svg
+
+GTK-Theme
+---------
+
+Update: checkbox-mixed-active.png
+
+Aurorae Themes
+---------------
+
+Update: maximize.svg
+
