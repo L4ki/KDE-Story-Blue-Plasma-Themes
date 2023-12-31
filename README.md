@@ -142,3 +142,21 @@ Aurorae Themes
 
 Update: maximize.svg
 
+Changelog: 31.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: osd.svg
+
+GTK-Theme
+---------
+
+Update: gtk-4.0
+
+Aurorae Themes
+---------------
+
+Update: alldesktops.svg
+
