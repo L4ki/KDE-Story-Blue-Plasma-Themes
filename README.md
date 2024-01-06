@@ -160,3 +160,17 @@ Aurorae Themes
 
 Update: alldesktops.svg
 
+
+Changelog: 06.01.2024.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: media-delegate.svg
+
+GTK-Theme
+---------
+
+Update: gtk-3.0
+
