@@ -174,3 +174,20 @@ GTK-Theme
 
 Update: gtk-3.0
 
+Changelog: 14.01.2024.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: window.svg
+
+GTK-Theme
+---------
+
+Update: gtkrc
+
+Aurorae Themes
+---------------
+
+Update: keepabove.svg
