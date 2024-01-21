@@ -34,160 +34,20 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 
 
-Changelog: 19.11.2023.
+Changelog: 21.01.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added icon: widget.svg
+Added icon: solaar.svg
 
 GTK-Theme
 ---------
 
-Update:  treeview-separator-ltr.png
+Update:  checkbox-unchecked-insensitive.png
 
 Aurorae Themes
 ---------------
 
-Update: decoration.svg
-
-Changelog: 26.11.2023.
-----------------------
-
-Plasma Theme
--------------
-
-Added icon: org.rnd2.cpupower_gui.svg
-
-GTK-Theme
----------
-
-Update: progressbar-vert-trough.png
-
-Aurorae Themes
----------------
-
-Update: Auroraerc
-
-Changelog: 03.12.2023.
-----------------------
-
-Plasma Theme
--------------
-
-Update icon: yakuake.svg
-
-GTK-Theme
----------
-
-Update: styles
-
-Aurorae Themes
----------------
-
-Update: shade.svg
-
-Changelog: 10.12.2023.
-----------------------
-
-Plasma Theme
--------------
-
-Added icon: telegram.svg
-
-GTK-Theme
----------
-
-Update: progressbar-horz-trough.png
-
-Aurorae Themes
----------------
-
-Update: decoration.svg
-
-Changelog: 17.12.2023.
-----------------------
-
-Plasma Theme
--------------
-
-Added icon: strawberry.svg
-
-GTK-Theme
----------
-
-Update: checkbox-checked-active.png
-
-Aurorae Themes
----------------
-
-Update: minimize.svg
-
-Changelog: 24.12.2023.
-----------------------
-
-Plasma Theme
--------------
-
-Added icon: krfb.svg
-
-GTK-Theme
----------
-
-Update: checkbox-mixed-active.png
-
-Aurorae Themes
----------------
-
-Update: maximize.svg
-
-Changelog: 31.12.2023.
-----------------------
-
-Plasma Theme
--------------
-
-Added icon: osd.svg
-
-GTK-Theme
----------
-
-Update: gtk-4.0
-
-Aurorae Themes
----------------
-
-Update: alldesktops.svg
-
-
-Changelog: 06.01.2024.
-----------------------
-
-Plasma Theme
--------------
-
-Added widget: media-delegate.svg
-
-GTK-Theme
----------
-
-Update: gtk-3.0
-
-Changelog: 14.01.2024.
-----------------------
-
-Plasma Theme
--------------
-
-Update icon: window.svg
-
-GTK-Theme
----------
-
-Update: gtkrc
-
-Aurorae Themes
----------------
-
-Update: keepabove.svg
+Update: restore.svg
