@@ -34,20 +34,20 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 
 
-Changelog: 21.01.2024.
+Changelog: 28.01.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added icon: solaar.svg
+Added widget: scrollwidget.svg
 
 GTK-Theme
 ---------
 
-Update:  checkbox-unchecked-insensitive.png
+Update:  checkbox-mixed-insensitive.png
 
 Aurorae Themes
 ---------------
 
-Update: restore.svg
+Update:  keepbelow.svg
