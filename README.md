@@ -32,22 +32,22 @@ Screenshot:
 ![Screenshot_20231109_150603](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/c606a4ab-0560-4f26-8e70-c35009eef17c)
 
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
+_________________________________________________________________________________________________________________________________________
 
-
-Changelog: 28.01.2024.
+Changelog: 04.02.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added widget: scrollwidget.svg
+Added icon: osd.svg
 
 GTK-Theme
 ---------
 
-Update:  checkbox-mixed-insensitive.png
+Update:  main.rc
 
 Aurorae Themes
 ---------------
 
-Update:  keepbelow.svg
+Update:  close.svg
