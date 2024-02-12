@@ -34,20 +34,12 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 04.02.2024.
+Changelog: 12.02.2024.
 ----------------------
-
-Plasma Theme
--------------
-
-Added icon: osd.svg
 
 GTK-Theme
 ---------
 
-Update:  main.rc
+Update: apps.rc
 
-Aurorae Themes
----------------
 
-Update:  close.svg
