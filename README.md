@@ -34,12 +34,21 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 12.02.2024.
+Changelog: 19.02.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: apps.rc
+Update: hacks-dark.rc
 
+Plasma Theme
+-------------
+
+Update widget: branding.svg
+
+Window Decorations
+------------------
+
+Update: help.svg
 
