@@ -45,7 +45,7 @@ Update: gtkrc
 Plasma Theme
 -------------
 
-Update widget: busywidge.svg
+Update widget: busywidget.svg
 
 Window Decorations
 ------------------
