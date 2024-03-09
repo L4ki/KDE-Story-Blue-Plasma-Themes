@@ -34,23 +34,23 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 03.03.2024.
+Changelog: 10.03.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: gtkrc
+Update: styles
 
 Plasma Theme
 -------------
 
-Update widget: busywidget.svg
+Update icon: network.svg
 
 Window Decorations
 ------------------
 
-Update: Aurorare.rc
+Update: shade.svg
 
 Changelog: 09.03.2024.
 ----------------------
