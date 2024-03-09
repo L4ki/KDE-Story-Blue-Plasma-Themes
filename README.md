@@ -52,3 +52,16 @@ Window Decorations
 
 Update: Aurorare.rc
 
+Changelog: 09.03.2024.
+----------------------
+
+Window Decorations
+------------------
+
+Added Windows Decorations for Plasma 6
+
+Global Themes
+-------------
+
+Added Global Theme for Plasma 6
+
