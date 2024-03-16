@@ -58,10 +58,10 @@ Changelog: 16.03.2024.
 Window Decorations
 ------------------
 
-Added Windows Decorations for Plasma 6
+Update: decoration.svg
 
 Global Themes
 -------------
 
-Added Global Theme for Plasma 6
+Update: metadata.json
 
