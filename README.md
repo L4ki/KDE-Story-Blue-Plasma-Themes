@@ -52,7 +52,7 @@ Window Decorations
 
 Update: shade.svg
 
-Changelog: 09.03.2024.
+Changelog: 16.03.2024.
 ----------------------
 
 Window Decorations
