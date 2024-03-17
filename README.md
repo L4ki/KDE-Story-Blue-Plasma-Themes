@@ -34,34 +34,34 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 10.03.2024.
+Changelog: 17.03.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: styles
+Update: handle.png
 
 Plasma Theme
 -------------
 
-Update icon: network.svg
+Update widget: tabbar.svg
 
 Window Decorations
 ------------------
 
-Update: shade.svg
+Update: metadata.desktop
 
 Changelog: 16.03.2024.
 ----------------------
 
-Window Decorations
-------------------
+Window Decorations For Plasma 6
+-------------------------------
 
 Update: decoration.svg
 
-Global Themes
--------------
+Global Themes For Plasma 6
+--------------------------
 
 Update: metadata.json
 
