@@ -53,4 +53,7 @@ Window Decorations
 Update: metadata.desktop
 
 
+Changelog: 15.05.2024.
+----------------------
 
+Added SDDM Login Theme For Plasma 6
