@@ -34,26 +34,20 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 02.06.2024.
+Changelog: 09.06.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Plasma Theme
 -------------
 
-Update widget: slider.svg
+Update widget: margins-highlight.svg
 
 Window Decorations
 ------------------
 
 Update: metadata.desktop
-
-
-Changelog: 15.05.2024.
-----------------------
-
-Added SDDM Login Theme For Plasma 6
