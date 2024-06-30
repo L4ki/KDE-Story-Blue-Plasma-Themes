@@ -34,18 +34,18 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 23.06.2024.
+Changelog: 30.06.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: main.rc
+Update: hacks-dark.rc
 
 Plasma Theme
 -------------
 
-Update widget: arrows.svg
+Update widget: bar_meter_horizontal.svg
 
 Window Decorations
 ------------------
