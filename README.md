@@ -34,18 +34,18 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 04.08.2024.
+Changelog: 11.08.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: gtk-3.0
+Update: apps.rc
 
 Plasma Theme
 -------------
 
-Update widget: tasks.svg
+Update widget: viewitem.svg
 
 Window Decorations
 ------------------
