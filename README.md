@@ -34,18 +34,18 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 22.09.2024.
+Changelog: 29.09.2024.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Plasma Theme
 -------------
 
-Update widget: radiobutton.svg
+Update widget: switch.svg
 
 Window Decorations
 ------------------
