@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "KDE-Story-Blue-Dark-Plasma",
+        "Description": "KDE-Story-Blue Dark Plasma Theme by l4k1",
+        "Id": "KDE-Story-Blue-Dark-Plasma",
+        "Version": "5.9",
+        "License": "GPL-3.0+",
+        "Website": "https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes"
+    },
+    "X-Plasma-API": "5.0"
+}
