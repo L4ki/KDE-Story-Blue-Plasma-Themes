@@ -34,20 +34,15 @@ Screenshot:
 ![Screenshot_20231109_144325](https://github.com/L4ki/KDE-Story-Blue-Plasma-Themes/assets/45247573/3c383a64-a514-4427-9610-a04833804eee)
 _________________________________________________________________________________________________________________________________________
 
-Changelog: 24.02.2025.
+Changelog: 03.03.2025.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: styles
+Update: gtk-4.0
 
 Plasma Theme
 -------------
-
-Update: metadata.json
-
-Window Decorations
-------------------
 
 Update: metadata.desktop
